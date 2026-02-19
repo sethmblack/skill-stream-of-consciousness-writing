@@ -3,8 +3,9 @@ name: stream-of-consciousness-writing
 description: Render experience from within consciousness, capturing how thought and sensation actually move rather than how we summarize them afterward.
 license: MIT
 metadata:
+  version: 1.0.5087
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stream-of-consciousness-writing
 - transformation
